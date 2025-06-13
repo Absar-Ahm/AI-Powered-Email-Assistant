@@ -13,13 +13,13 @@ An intelligent Streamlit-based application that helps you generate professional 
 🔊 Assistant-voiced questions: Integrated offline TTS (pyttsx3) for a human-like assistant experience.
 
 📦 Installation
-1️⃣ Clone the repository
-git clone https://github.com/Absar-Ahm/AI-Powered-Email-Assistant.git
-cd AI-Powered-Email-Assistant
-2️⃣ Set up virtual environment
+'''1️⃣ Clone the repository
+'''git clone https://github.com/Absar-Ahm/AI-Powered-Email-Assistant.git
+'''cd AI-Powered-Email-Assistant
+'''2️⃣ Set up virtual environment
 python -m venv venv
 venv\Scripts\activate          # For Windows
-# OR
+'''OR
 source venv/bin/activate       # For Mac/Linux
 3️⃣ Install dependencies
 pip install -r requirements.txt
